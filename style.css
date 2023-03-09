@@ -144,7 +144,7 @@ body {
   overflow: auto;
 }
 .container {
-  margin: 50% auto;
+  margin: 150px auto;
   width: 270px;
   box-sizing: border-box;
   border-radius: 0.7rem;
