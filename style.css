@@ -145,7 +145,7 @@ body {
 }
 .container {
   margin: 150px auto;
-  width: 270px;
+  width: 300px;
   box-sizing: border-box;
   border-radius: 0.7rem;
   background-color: var(--verydarkbluecardBG);
@@ -180,8 +180,8 @@ img {
   width: 48px;
   height: 48px;
   background-image: url(./images/icon-view.svg);
-  top: 100px;
-  left: 100px;
+  top: 105px;
+  left: 110px;
 }
 
 .view:hover .icon-view {
